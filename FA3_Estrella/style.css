@@ -16,6 +16,8 @@ h1{
     	padding-left: 15px;
     	background-color: #FF6500;
     	margin-bottom; 20px;
+	margin-left: auto;
+	margin-right: auto;
 }
         
 p{
@@ -27,6 +29,8 @@ p{
     	background-color: hsl(24, 100%, 50%);
 	font-style: italic;
     	border-width: 3px;
+	margin-left: auto;
+	margin-right: auto;
 }
         
 span{
